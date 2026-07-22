@@ -1,2 +1,2 @@
 # DL-Optimization-Project
-Developed a MobileNetV2-based leather defect classifier. Optimized the model with Structured Pruning and INT8/INT16 quantization for efficient edge deployment. Benchmarked performance on NVIDIA Jetson Xavier and TX2, evaluating test accuracy, memory footprint, and inference latency to analyze compression-performance trade-offs.
+Developed a MobileNetV2-based leather defect classifier. Extended it to ResNet50 and VGG16. Optimized the model with Structured Pruning (Channel, Neuron and Layer) and INT8/INT16 quantization for efficient edge deployment. Benchmarked performance on NVIDIA Jetson Xavier and TX2, evaluating test accuracy, memory footprint, and inference latency to analyze compression-performance trade-offs.
